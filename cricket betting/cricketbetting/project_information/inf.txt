@@ -1,0 +1,33 @@
+I developed this project using the following:
+
+XAMPP v3.3.0 as my local webserver that has a PHP Version 8.0.7
+PHP Language
+MySQL Database
+HTML
+CSS
+JavaScript
+jQuery
+Ajax
+Bootstrap
+How to Run ??
+Requirements
+
+Download and Install any local web server such as XAMPP/WAMP.
+Download the provided source code zip file. (download button is located below)
+Installation/Setup
+
+Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
+Extract the downloaded source code zip file.
+If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Create a new database naming cricketbetting
+Import the provided SQL file. The file is known as cricketbetting.sql located inside the database folder.
+Browse the Online Cricket Betting Hub in a browser. i.e. http://localhost/cricketbetting/ for the users side and http://localhost/cricketbetting/admin for the admin side.
+
+For Admin
+Username: admin
+Password: admin
+
+For Users:
+Username: admin1
+Password: 111
